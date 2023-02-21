@@ -2,7 +2,6 @@
 
 local Games = {
     [1997193809] = "Backpacking",
-    [6875469709] = "STRONGEST_PUNCH_SIMULATOR",
     [1] = "Universal"
  }
  local rep = "githubreprositorylink"
