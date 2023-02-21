@@ -4,7 +4,7 @@ local Games = {
     [1997193809] = "Backpacking",
     [1] = "Universal"
  }
- local rep = "githubreprositorylink"
+ local rep = "https://github.com/erikkire123/NikoHub/"
  local skript = function()
  if Games[game.PlaceId] then return game:HttpGet(rep..Games[game.PlaceId])
  else return game:HttpGet(rep..Games[1])
